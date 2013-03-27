@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.android.gcm</groupId>
+  <artifactId>gcm-server</artifactId>
+  <version>1.0.2</version>
+  <versioning>
+    <versions>
+      <version>1.0.2</version>
+    </versions>
+    <lastUpdated>20130327013314</lastUpdated>
+  </versioning>
+</metadata>
