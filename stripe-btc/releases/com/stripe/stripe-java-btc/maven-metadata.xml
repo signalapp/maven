@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.stripe</groupId>
+  <artifactId>stripe-java-btc</artifactId>
+  <version>1.12.0-btc-beta</version>
+  <versioning>
+    <versions>
+      <version>1.12.0-btc-beta</version>
+    </versions>
+    <lastUpdated>20140522001625</lastUpdated>
+  </versioning>
+</metadata>
