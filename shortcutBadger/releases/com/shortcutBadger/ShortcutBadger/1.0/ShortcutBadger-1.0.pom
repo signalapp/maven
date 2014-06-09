@@ -3,6 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.shortCutBadger</groupId>
-  <artifactId>ShortCutBadger</artifactId>
+  <artifactId>ShortcutBadger</artifactId>
   <version>1.0</version>
 </project>
