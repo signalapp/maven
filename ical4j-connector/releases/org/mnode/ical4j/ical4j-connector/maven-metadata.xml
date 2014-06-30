@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mnode.ical4j</groupId>
+  <artifactId>ical4j-connector</artifactId>
+  <version>0.9.6-broken</version>
+  <versioning>
+    <versions>
+      <version>0.9.6-broken</version>
+    </versions>
+    <lastUpdated>20140630205303</lastUpdated>
+  </versioning>
+</metadata>
