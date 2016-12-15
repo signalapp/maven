@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.robolectric</groupId>
+  <artifactId>robolectric-gradle-plugin</artifactId>
+  <versioning>
+    <release>0.11.2-sourcesets</release>
+    <versions>
+      <version>0.11.2-sourcesets</version>
+    </versions>
+    <lastUpdated>20140622012019</lastUpdated>
+  </versioning>
+</metadata>
