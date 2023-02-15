@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.signal</groupId>
   <artifactId>sqlcipher-android</artifactId>
-  <version>4.5.3-FTS-S1</version>
+  <version>4.5.3-FTS-S2</version>
   <packaging>aar</packaging>
 </project>
