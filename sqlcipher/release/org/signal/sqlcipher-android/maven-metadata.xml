@@ -3,12 +3,13 @@
   <groupId>org.signal</groupId>
   <artifactId>sqlcipher-android</artifactId>
   <versioning>
-    <release>4.6.0-S1</release>
+    <release>4.6.0-S2</release>
     <versions>
       <version>4.5.4-S1</version> 
       <version>4.5.4-S2</version> 
       <version>4.6.0-S1</version>
+      <version>4.6.0-S2</version>
     </versions>
-    <lastUpdated>20240826105300</lastUpdated>
+    <lastUpdated>20240828040800</lastUpdated>
   </versioning>
 </metadata>
